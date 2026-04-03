@@ -1,3 +1,7 @@
 biopython
 matplotlib
+
+# For a future improvement
 numpy
+pandas
+seaborn
