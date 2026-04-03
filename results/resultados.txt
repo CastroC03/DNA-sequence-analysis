@@ -1,0 +1,18 @@
+=== DNA ANALYSIS REPORT (FIRST 1000 BASES) ===
+
+Sequences:
+- NC_000017.11:c43170327-43044295 | Length: 126033
+- NC_060941.1:c44029084-43902857 | Length: 126228
+
+Comparison:
+Differences: 3
+Similarity (%): 99.70
+
+Mutations:
+Position: 432 | CAG -> CAA | Q -> Q | silent
+Position: 498 | GAC -> AAC | D -> N | missense
+Position: 957 | GTG -> ATG | V -> M | missense
+
+Summary:
+Silent: 1
+Missense: 2
