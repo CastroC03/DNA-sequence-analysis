@@ -1,6 +1,6 @@
-# 🧬 DNA Sequence Analysis using Python & Biopython
+# DNA Sequence Analysis using Python & Biopython
 
-## 📌 Description
+## Description
 
 This project performs bioinformatics analysis on DNA sequences using Python and Biopython.
 
@@ -14,7 +14,7 @@ It includes:
 
 ---
 
-## 🚀 Technologies
+## Technologies
 
 * Python
 * Biopython
@@ -22,7 +22,7 @@ It includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 dna-sequence-analysis/
@@ -37,7 +37,7 @@ dna-sequence-analysis/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 conda activate bioinfo
@@ -46,7 +46,7 @@ python main.py
 
 ---
 
-## 📊 Example Results
+## Example Results
 
 * Sequence similarity: 99.7%
 * Detected mutations:
@@ -56,6 +56,6 @@ python main.py
 
 ---
 
-## 🧠 Author
+## Author
 
 Rubens Castro
